@@ -2,8 +2,9 @@
     font-size: 88%;
     font-family: "Microsoft YaHei", "Hiragino Sans GB W3", Tahoma, Arial;
     text-shadow: 0 0 1px #EEE;
-    color: #666;
-    overflow: hidden
+    color: #2c2c2c;
+    overflow: hidden;
+    background-color: rgb(204, 240, 255);
 }
 
 #lyricer ul {
@@ -12,7 +13,7 @@
 }
 
 #lyricer ul li {
-    overflow: auto
+    overflow: auto;
 }
 
 #lyricer ul li:hover {
