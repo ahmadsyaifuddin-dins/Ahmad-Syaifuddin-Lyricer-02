@@ -354,6 +354,7 @@ a:hover {
   .main-content-audio {
     justify-content: center;
     display: flex;
+    margin-bottom: 1rem;
   }
 }
 
