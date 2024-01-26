@@ -95,7 +95,7 @@ a:hover {
 @media screen and (max-width: 42em) {
   .page-header {
     padding: 2rem 1rem;
-    background-size: 85%;
+    background-size: 110%;
 
   }
 }
