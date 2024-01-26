@@ -1,0 +1,25 @@
+#lyricer {
+    font-size: 88%;
+    font-family: "Microsoft YaHei", "Hiragino Sans GB W3", Tahoma, Arial;
+    text-shadow: 0 0 1px #EEE;
+    color: #666;
+    overflow: hidden
+}
+
+#lyricer ul {
+    list-style-type: none;
+    padding: 5px
+}
+
+#lyricer ul li {
+    overflow: auto
+}
+
+#lyricer ul li:hover {
+    color: #056dc9
+}
+
+#lyricer .lyricer-current-line {
+    color: #000;
+    text-shadow: 0 0 1px #fff, 0 0 2px #fff, 0 0 3px #fff, 0 0 4px #00A9FF, 0 0 6px #00A9FF, 0 0 8px #00A9FF, 0 0 10px #00A9FF, 0 0 12px #00A9FF
+}
